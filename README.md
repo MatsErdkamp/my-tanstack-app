@@ -3,7 +3,7 @@ Welcome to your new TanStack app!
 # Getting Started
 
 To run this application:
-
+w
 ```bash
 pnpm install
 pnpm dev
